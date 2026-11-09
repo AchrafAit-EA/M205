@@ -1,4 +1,4 @@
 <?php 
     echo "hello world " ;
-    echo "salam "
-?>
+    echo "salam ";
+    echo "fenk";
